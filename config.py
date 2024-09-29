@@ -1,1 +1,4 @@
-TG_TOKEN = '7452904977:AAEBEDJu0xCfw6grND_XAdn5jxkaokMjNYc'
+# Токен телеграм
+TG_TOKEN = ''
+# Токен openweather 
+OPEN_WEATHERMAP = ''
